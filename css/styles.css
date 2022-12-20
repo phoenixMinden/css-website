@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: royalblue;
+    color: white;
+}
+.bottom-container{
+    text-align: center;
+    background-color: ;
+    margin: 0;
+}
+.contact-me{
+    text-align: center;
+    padding: 100px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    padding-left: 45%;
+}
+.closing{
+    padding: 0;
+}
+
+p{
+}
+.intro{
+    font-family: sans-serif;
+    font-size: 300%;
+    margin: auto;
+    text-align: center;
+    padding: 25px 0 0;
+}
+.title{
+    font-weight: normal;
+    text-align: center;
+    font-size: 150%;
+}
+.middle-container{
+}
+.top{
+}
+.skill-row{
+    padding: 50px
+}
+.skills{
+    padding: 25px 0;
+    text-align: left;
+    max-width: 50%;
+    margin: auto;
+}
+.summary{
+    text-align: center;
+    max-width: 50%;
+    margin: auto;
+}
+.Milkyway{
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+.Sun{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 36%;
+    border-radius: 100%;
+}
+.Mercury{
+    width: 25%;
+    float: left;
+    border-radius: 100%;
+}
+.Venus{
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+}
+.Earth{
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+}
+.Mars{
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+}
+.phoenix-pic {
+    padding: 25px 0 10px;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 40%;
+    border-radius: 100%;
+}
+.footer-link, .btn{
+    color: gold;
+    padding: 0 15px;
+}
